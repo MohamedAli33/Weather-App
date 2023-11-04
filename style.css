@@ -184,4 +184,9 @@ body {
         font-size: 14px;
         max-width: 100%;
     }
+
+    .search-container {
+        max-width: 100%;
+    }
+
 }
