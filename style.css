@@ -10,9 +10,9 @@
     --off-white: #e5e5e5;
     --transp-white-1: rgba(255, 255, 255,0.25);
     --transp-white-2: rgba(255, 255, 255,0.1);
-    --bule-1: #62b8f5;
-    --bule-2: #4475ef;
-    --shadow: rgba(3, 46, 87, 0.2);
+    --bule-1: #9a62f5;
+    --bule-2: #06153b;
+    --shadow: rgba(3, 81, 87, 0.2);
 }
 
 body {
