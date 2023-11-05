@@ -192,6 +192,9 @@ body {
 
     .search-container button {
         padding: 6px;
+        position: absolute;
+        left: 150px;
+        top: 7px;
     }
 
 }
